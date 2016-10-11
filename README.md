@@ -5,16 +5,32 @@
 Please use the following citation:
 
 ```
-@InProceedings{smith:20xx:CONFERENCE_TITLE,
-  author    = {Smith, John},
-  title     = {My Paper Title},
-  booktitle = {Proceedings of the 20XX Conference on XXXX},
-  month     = {Month Name},
-  year      = {20xx},
-  address   = {Gotham City, USA},
-  publisher = {Association for XXX},
-  pages     = {XXXX--XXXX},
-  url       = {http://xxxx.xxx}
+@inproceedings{	TUD-CS-2016450,
+	author = {Carsten Schnober and Steffen Eger and Erik-Lân Do Dinh and Iryna Gurevych},
+	title = {Still not there? Comparing Traditional Sequence-to-Sequence Models to
+Encoder-Decoder Neural Networks on Monotone String Translation Tasks},
+	month = dec,
+	year = {2016},
+	booktitle = {Proceedings of the 26th International Conference on Computational
+Linguistics (COLING)},
+	pages = {(to appear)},
+	location = {Osaka, Japan},
+	language = {English},
+	pubkey = {TUD-CS-2016-1450},
+	research_area = {Ubiquitous Knowledge Processing, UKP-DIPF},
+	research_sub_area = {UKP_reviewed, UKP_a_DLinNLP},
+	abstract = {We analyze the performance of encoder-decoder neural models and compare
+them with well-known established methods. The latter represent different
+classes of traditional approaches that are applied to the monotone
+sequence-to-sequence tasks OCR post-correction, spelling correction,
+grapheme-to-phoneme conversion, and lemmatization.
+Such tasks are of practical relevance for various higher-level research
+fields including \textit{digital humanities}, automatic text correction,
+and speech recognition. 
+We investigate how well generic deep-learning approaches adapt to these
+tasks, and how they perform in comparison with established and more
+specialized methods, including our own adaptation of pruned CRFs. },
+	pdf = {https://wiki.ukp.informatik.tu-darmstadt.de/pub/UKP/Publications/PaperUpload/2016_Coling_CaS_SE_ED_camery-ready.pdf},
 }
 ```
 

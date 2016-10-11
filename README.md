@@ -24,9 +24,9 @@ We investigate how well generic deep-learning approaches adapt to these tasks, a
 
 
 Contact person: 
-Steffen Eger, eger@ukp.informatik.tu-darmstadt.de
-Carsten Schnober, schnober@ukp.informatik.tu-darmstadt.de
-Erik-Lân Do Dinh, dodinh@ukp.informatik.tu-darmstadt.de
+  * Carsten Schnober, schnober@ukp.informatik.tu-darmstadt.de
+  * Steffen Eger, eger@ukp.informatik.tu-darmstadt.de
+  * Erik-Lân Do Dinh, dodinh@ukp.informatik.tu-darmstadt.de
 
 http://www.ukp.tu-darmstadt.de/
 

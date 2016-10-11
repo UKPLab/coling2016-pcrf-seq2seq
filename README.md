@@ -30,7 +30,6 @@ and speech recognition.
 We investigate how well generic deep-learning approaches adapt to these
 tasks, and how they perform in comparison with established and more
 specialized methods, including our own adaptation of pruned CRFs. },
-	pdf = {https://wiki.ukp.informatik.tu-darmstadt.de/pub/UKP/Publications/PaperUpload/2016_Coling_CaS_SE_ED_camery-ready.pdf},
 }
 ```
 

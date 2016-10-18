@@ -6,8 +6,8 @@
 ## Configuration
 
 - Please specify the path to Marmot in the following files: 
-  (a) `makeModel-segmenter-order_complex.sh`
-  (b) `decode-simple_dev.sh`
+  1. `makeModel-segmenter-order_complex.sh`
+  2. `decode-simple_dev.sh`
 
 `marmotTagger=~/projects/marmot/marmot-2015-06-12.jar`
 
@@ -16,7 +16,7 @@
 `path2M2M=~/projects/OCR/OCR/m2m-aligner-master/`
 
 
-# TRAINING
+# Training a model
 
 - To train a 3rd order model for 10 iterations with quadratic penalty of 0.5 and a context window size of 4, run:
 
@@ -33,7 +33,7 @@ w=4
 - Your files should be UTF-8 encoded.
 
 
-# TESTING
+# Testing a model
 
 - After training, you can apply the trained models as follows:
 
@@ -42,7 +42,9 @@ w=4
 - This should lead to a word accuracy of 16.66%.
 
 
-# CITATION
+# Citation
+Please use the following citation if you use this code.
+
 ```
 @inproceedings{TUD-CS-2016450,
 	author = {Carsten Schnober and Steffen Eger and Erik-Lân Do Dinh and Iryna Gurevych},

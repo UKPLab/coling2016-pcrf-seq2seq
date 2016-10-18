@@ -1,5 +1,6 @@
 # PCRF-Seq2Seq
 
+An adaptation of MarMot morphological tagger for generic sequence-to-sequence tasks.
 
 
 Please use the following citation:
@@ -38,7 +39,7 @@ Such tasks are of practical relevance for various higher-level research fields i
 We investigate how well generic deep-learning approaches adapt to these tasks, and how they perform in comparison with established and more specialized methods, including our own adaptation of pruned CRFs. 
 
 
-Contact person: 
+Contact persons: 
   * Carsten Schnober, schnober@ukp.informatik.tu-darmstadt.de
   * Steffen Eger, eger@ukp.informatik.tu-darmstadt.de
   * Erik-Lân Do Dinh, dodinh@ukp.informatik.tu-darmstadt.de
@@ -55,60 +56,15 @@ Don't hesitate to send us an e-mail or report an issue, if something is broken (
 ## Project structure
 **(change this as needed!)**
 
-* `folder/a` -- this folder contains xxx
-* `folder/b` -- interesting files here
-* ...
-* `data/xxx` -- my amazing data
+* `src` -- this folder contains the code and detailed instructions
+* `src/data/` -- sample data from the Twitter typo corpus
 
 ## Requirements
-**(change this as needed!)**
+See `src/README.md` for details!
 
-* Java x.x and higher
-* Maven
-* 64-bit Linux versions
-* Windows x
-* XX GB RAM
+* [Marmot](https://github.com/muelletm/cistern/) morphological tagger
+* [m2m-aligner](https://github.com/letter-to-phoneme/m2m-aligner) 
 
-## Installation
-**(change this as needed!)**
-
-* Step 1
-
-```
-$nice_command
-
-$some_script.sh
-```
-
-* Step 2
-
-Do something and something
-
-* ...
-* Step n
-
-
-## Running the experiments
-**(change this as needed!)**
-
-```
-$cd bla/bla/bla
-$some_cool_commands_here
-```
-
-### Expected results
-**(change this as needed!)**
-
-After running the experiments, you should expect the following results:
-
-(Feel free to describe your expected results here...)
-
-### Parameter description
-**(change this as needed!)**
-
-* `x, --xxxx`
-  * This parameter does something nice
-...
-* `z, --zzzz`
-  * This parameter does something even nicer
-  
+## Installation and Running
+See `src/README.md` for details!
+ 

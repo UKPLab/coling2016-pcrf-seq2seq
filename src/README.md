@@ -1,17 +1,18 @@
 ***Requirements***
 
-M2M aligner: https://github.com/letter-to-phoneme/m2m-aligner
-Marmot: http://cistern.cis.lmu.de/marmot/
+* M2M aligner: https://github.com/letter-to-phoneme/m2m-aligner
+* Marmot: http://cistern.cis.lmu.de/marmot/
+
 
 - Please specify the path to Marmot in the following files: 
-..(a) `makeModel-segmenter-order_complex.sh`
-..(b) `decode-simple_dev.sh`
+  (a) `makeModel-segmenter-order_complex.sh`
+  (b) `decode-simple_dev.sh`
 
-```marmotTagger=~/projects/marmot/marmot-2015-06-12.jar```
+`marmotTagger=~/projects/marmot/marmot-2015-06-12.jar`
 
 - Specify the path to the m2m aligner in `train_complex.sh`:
 
-```path2M2M=~/projects/OCR/OCR/m2m-aligner-master/```
+`path2M2M=~/projects/OCR/OCR/m2m-aligner-master/`
 
 
 ***TRAINING***

@@ -54,17 +54,16 @@ Don't hesitate to send us an e-mail or report an issue, if something is broken (
 > This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication. 
 
 ## Project structure
-**(change this as needed!)**
 
 * `src` -- this folder contains the code and detailed instructions
 * `src/data/` -- sample data from the Twitter typo corpus
 
 ## Requirements
-See `src/README.md` for details!
+See [src/README.md](src/README.md) for details!
 
 * [Marmot](https://github.com/muelletm/cistern/) morphological tagger
 * [m2m-aligner](https://github.com/letter-to-phoneme/m2m-aligner) 
 
 ## Installation and Running
-See `src/README.md` for details!
+See [src/README.md](src/README.md) for details!
  

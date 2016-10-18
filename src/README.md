@@ -1,8 +1,9 @@
-***Requirements***
+# Requirements
 
 * M2M aligner: https://github.com/letter-to-phoneme/m2m-aligner
 * Marmot: http://cistern.cis.lmu.de/marmot/
 
+## Configuration
 
 - Please specify the path to Marmot in the following files: 
   (a) `makeModel-segmenter-order_complex.sh`
@@ -15,7 +16,7 @@
 `path2M2M=~/projects/OCR/OCR/m2m-aligner-master/`
 
 
-***TRAINING***
+# TRAINING
 
 - To train a 3rd order model for 10 iterations with quadratic penalty of 0.5 and a context window size of 4, run:
 
@@ -32,7 +33,7 @@ w=4
 - Your files should be UTF-8 encoded.
 
 
-***TESTING***
+# TESTING
 
 - After training, you can apply the trained models as follows:
 
@@ -41,7 +42,7 @@ w=4
 - This should lead to a word accuracy of 16.66%.
 
 
-***CITATION***
+# CITATION
 ```
 @inproceedings{TUD-CS-2016450,
 	author = {Carsten Schnober and Steffen Eger and Erik-Lân Do Dinh and Iryna Gurevych},

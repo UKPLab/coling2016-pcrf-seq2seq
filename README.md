@@ -1,12 +1,12 @@
 # PCRF-Seq2Seq
 
-An adaptation of MarMot morphological tagger for generic sequence-to-sequence tasks.
+An adaptation of MarMot morphological tagger for generic sequence-to-sequence tasks from [our paper](http://aclweb.org/anthology/C16-1160).
 
 
 Please use the following citation:
 
 ```
-@inproceedings{	TUD-CS-2016450,
+@inproceedings{TUD-CS-2016450,
 	author = {Carsten Schnober and Steffen Eger and Erik-Lân Do Dinh and Iryna Gurevych},
 	title = {Still not there? Comparing Traditional Sequence-to-Sequence Models to
 Encoder-Decoder Neural Networks on Monotone String Translation Tasks},
@@ -14,7 +14,7 @@ Encoder-Decoder Neural Networks on Monotone String Translation Tasks},
 	year = {2016},
 	booktitle = {Proceedings of the 26th International Conference on Computational
 Linguistics (COLING)},
-	pages = {(to appear)},
+	pages = {(1703--1714)},
 	location = {Osaka, Japan},
 	language = {English},
 	pubkey = {TUD-CS-2016-1450},

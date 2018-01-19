@@ -54,7 +54,7 @@ Encoder-Decoder Neural Networks on Monotone String Translation Tasks},
 	year = {2016},
 	booktitle = {Proceedings of the 26th International Conference on Computational
 Linguistics (COLING)},
-	pages = {(to appear)},
+	pages = {(1703--1714)},
 	location = {Osaka, Japan},
 	language = {English},
 	pubkey = {TUD-CS-2016-1450},

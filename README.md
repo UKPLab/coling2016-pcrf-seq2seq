@@ -1,6 +1,6 @@
 # PCRF-Seq2Seq
 
-An adaptation of MarMot morphological tagger for generic sequence-to-sequence tasks from [our paper](http://aclweb.org/anthology/C16-1160).
+An adaptation of the MarMot higher-order CRF tagger for generic sequence-to-sequence tasks from [our paper](http://aclweb.org/anthology/C16-1160).
 
 
 Please use the following citation:

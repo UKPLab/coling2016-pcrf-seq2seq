@@ -6,7 +6,7 @@ An adaptation of the MarMot higher-order CRF tagger for generic sequence-to-sequ
 Please use the following citation:
 
 ```
-@inproceedings{TUD-CS-2016450,
+@inproceedings{Schnober:2016:Coling,
 	author = {Carsten Schnober and Steffen Eger and Erik-Lân Do Dinh and Iryna Gurevych},
 	title = {Still not there? Comparing Traditional Sequence-to-Sequence Models to
 Encoder-Decoder Neural Networks on Monotone String Translation Tasks},
@@ -17,20 +17,6 @@ Linguistics (COLING)},
 	pages = {(1703--1714)},
 	location = {Osaka, Japan},
 	language = {English},
-	pubkey = {TUD-CS-2016-1450},
-	research_area = {Ubiquitous Knowledge Processing, UKP-DIPF},
-	research_sub_area = {UKP_reviewed, UKP_a_DLinNLP},
-	abstract = {We analyze the performance of encoder-decoder neural models and compare
-them with well-known established methods. The latter represent different
-classes of traditional approaches that are applied to the monotone
-sequence-to-sequence tasks OCR post-correction, spelling correction,
-grapheme-to-phoneme conversion, and lemmatization.
-Such tasks are of practical relevance for various higher-level research
-fields including \textit{digital humanities}, automatic text correction,
-and speech recognition. 
-We investigate how well generic deep-learning approaches adapt to these
-tasks, and how they perform in comparison with established and more
-specialized methods, including our own adaptation of pruned CRFs. },
 }
 ```
 

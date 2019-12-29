@@ -1,4 +1,4 @@
-This model lets you perform monotone Sequence-to-sequence translation including Grapheme-to-Phoneme Conversion, OCR post-correction, or lemmatization.
+This model lets you perform monotone Sequence-to-sequence translation including Grapheme-to-Phoneme Conversion, OCR post-correction, and lemmatization.
 
 ## Requirements
 

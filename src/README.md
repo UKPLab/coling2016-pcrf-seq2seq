@@ -1,4 +1,6 @@
-# Requirements
+This model lets you perform monotone Sequence-to-sequence translation including Grapheme-to-Phoneme Conversion, OCR post-correction, or lemmatization.
+
+## Requirements
 
 * M2M aligner: https://github.com/letter-to-phoneme/m2m-aligner
 * Marmot: http://cistern.cis.lmu.de/marmot/
